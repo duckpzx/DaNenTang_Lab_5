@@ -123,5 +123,5 @@ flutter run -d chrome
 
 ### Video
 <video controls>
-  <source src="[movie.mp4](https://github.com/duckpzx/Cotyphu/issues/2#issue-4411687143)" type="video/mp4">
+  <source src="https://github.com/duckpzx/Cotyphu/issues/2#issue-4411687143" type="video/mp4">
 </video>
