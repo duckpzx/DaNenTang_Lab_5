@@ -122,4 +122,4 @@ flutter run -d chrome
 </div>
 
 ### Video
-https://github.com/duckpzx/Cotyphu/issues/2#issue-4411687143
+<img src="https://github.com/duckpzx/Cotyphu/issues/2#issue-4411687143">
